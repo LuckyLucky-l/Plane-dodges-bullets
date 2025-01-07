@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TurretData>
+	<turreInfos>
+		<TurreInfo id="1" type="1" cd="0.8"  num="5" delay="8" ids="1,10"/>
+		<TurreInfo id="2" type="2" cd="0.8"  num="5" delay="10" ids="11,20"/>
+		<TurreInfo id="3" type="2" cd="0.5"  num="8" delay="5" ids="1,20"/>
+		<TurreInfo id="4" type="1" cd="0.5"  num="10" delay="10" ids="5,15"/>
+	</turreInfos>
+</TurretData>

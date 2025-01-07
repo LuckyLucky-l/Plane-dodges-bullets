@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ButtleData>
+	<buttles>
+		<ButtleInfo id="1" type="1" ZmoveSpeed="60" XmoveSpeed="0" rotateSpeed="0" resName="Buttle/1" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="2" type="1" ZmoveSpeed="70" XmoveSpeed="0" rotateSpeed="0" resName="Buttle/2" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="3" type="1" ZmoveSpeed="80" XmoveSpeed="0" rotateSpeed="0" resName="Buttle/3" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="4" type="1" ZmoveSpeed="90" XmoveSpeed="0" rotateSpeed="0" resName="Buttle/4" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="5" type="2" ZmoveSpeed="60" XmoveSpeed="200" rotateSpeed="3" resName="Buttle/1" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="6" type="2" ZmoveSpeed="70" XmoveSpeed="200" rotateSpeed="3" resName="Buttle/2" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="7" type="2" ZmoveSpeed="80" XmoveSpeed="200" rotateSpeed="3" resName="Buttle/3" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="8" type="2" ZmoveSpeed="90" XmoveSpeed="200" rotateSpeed="3" resName="Buttle/4" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="9" type="3" ZmoveSpeed="60" XmoveSpeed="150" rotateSpeed="3" resName="Buttle/1" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="10" type="3" ZmoveSpeed="70" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/2" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="11" type="3" ZmoveSpeed="80" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/3" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="12" type="3" ZmoveSpeed="90" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/4" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="13" type="4" ZmoveSpeed="60" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/1" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="14" type="4" ZmoveSpeed="70" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/2" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="15" type="4" ZmoveSpeed="80" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/3" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="16" type="4" ZmoveSpeed="90" XmoveSpeed="150" rotateSpeed="30" resName="Buttle/4" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="17" type="5" ZmoveSpeed="60" XmoveSpeed="0" rotateSpeed="40" resName="Buttle/1" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="18" type="5" ZmoveSpeed="70" XmoveSpeed="0" rotateSpeed="40" resName="Buttle/2" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="19" type="5" ZmoveSpeed="80" XmoveSpeed="0" rotateSpeed="40" resName="Buttle/3" deadEff="ButtleOverEff/1" lifeTime="8"/>
+		<ButtleInfo id="20" type="5" ZmoveSpeed="90" XmoveSpeed="0" rotateSpeed="40" resName="Buttle/4" deadEff="ButtleOverEff/1" lifeTime="8"/>
+	</buttles>
+</ButtleData>
